@@ -36,7 +36,7 @@ class App extends Component {
   };
 
   render() {
-    // console.log(this.state.newTodo);
+    console.log(this.state.newTodo);
     return (
       <div className="container">
         <header className="font-weight-bold text-lg">
